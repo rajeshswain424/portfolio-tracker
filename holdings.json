@@ -1,0 +1,5 @@
+[
+  { "symbol": "RELIANCE.NS", "quantity": 10, "avg_price": 2450.00 },
+  { "symbol": "TCS.NS", "quantity": 5, "avg_price": 3600.00 },
+  { "symbol": "AAPL", "quantity": 8, "avg_price": 180.00 }
+]
